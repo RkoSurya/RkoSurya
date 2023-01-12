@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Kumar</h1>
-<h3 align="center">A</h3>
+<h3 align="center"></h3>
 
 - 💬 Ask me about **SQL, Python , Machine Learning, Deep Learning**
 
