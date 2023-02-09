@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Kumar</h1>
 <h3 align="center"></h3>
 
-- 💬 Ask me about **SQL, Python , Machine Learning, Deep Learning, R-language**
+- 💬 Ask me about **SQL, Python , Machine Learning, Deep Learning, R-language**,Tabulo
 
 - 📫 How to reach me **suryakumar26091999@gmail.com**
 
